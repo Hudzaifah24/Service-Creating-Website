@@ -11,5 +11,5 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
-  base: 'six-red-stars-technology',
+  // base: 'six-red-stars-technology',
 });
